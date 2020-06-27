@@ -1,0 +1,23 @@
+{
+  "name": "datastore-compression",
+  "version": "1.0.0",
+  "description": "A compression wrapper for interface-datastore compatible datastores",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaultec81/datastore-compression.git"
+  },
+  "author": "vaultec81",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaultec81/datastore-compression/issues"
+  },
+  "homepage": "https://github.com/vaultec81/datastore-compression#readme",
+  "dependencies": {
+    "compressjs": "^1.0.3",
+    "interface-datastore": "^1.0.4"
+  }
+}
